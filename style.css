@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  section{
+background-color: #b086318d;
+}
+body{
+  background-color:rgba(219, 219, 132, 0.353);
+}
+}
+.div-border{
+  border:1px solid black;
+
+}
+section{
+ 
+background-color: #b086318d;
+}
+body{
+  background-color:rgba(219, 219, 132, 0.353);
+}
+nav{
+  background-color:rgb(57, 23, 2);
+  position:fixed;
+  width:100%;
+  display:inline-flex;
+  top:0px;
+  max-height:150px;
+  
+
+}
+a{
+  color:orange;
+  display:inline-flex;
+  padding:1vw;
+  margin:1vw;
+  text-align:center;
+}
+a:hover{
+  color:white;
+}
+nav header{
+  color:white;
+}
+section{
+  padding-top:80;
+padding-bottom:20
+}
+main header{
+  text-align:center;
+  font-size:5rem;
+  font-family:
+}
